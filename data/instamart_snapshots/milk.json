@@ -1,0 +1,118 @@
+{
+  "query": "Milk",
+  "location": "Delhi Technological University",
+  "captured_at": "2026-09-12T03:41:00+05:30",
+  "source": "manual_snapshot",
+  "products": [
+    {
+      "title": "Amul Taaza Milk 1 Ltr",
+      "size": "1 ltr",
+      "price": 59,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Country Delight Cow Milk",
+      "size": "450 ml",
+      "price": 46,
+      "mrp": 48,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Country Delight Buffalo Milk",
+      "size": "450 ml",
+      "price": 55,
+      "mrp": 59,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Mother Dairy Pasteurised Homogenised Cow Milk",
+      "size": "500 ml",
+      "price": 31,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Mother Dairy Cow Milk",
+      "size": "1 ltr",
+      "price": 62,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Slim-n-Trim Milk Pouch",
+      "size": "500 ml",
+      "price": 27,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Moti Toned Milk",
+      "size": "450 ml",
+      "price": 33,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Taaza Tetra",
+      "size": "200 ml",
+      "price": 17,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Cow Milk",
+      "size": "1 ltr",
+      "price": 61,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Taaza Toned Milk",
+      "size": "1 ltr",
+      "price": 77,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Gold Homogenised Standardised Full Cream Milk",
+      "size": "1 ltr",
+      "price": 83,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    }
+  ]
+}

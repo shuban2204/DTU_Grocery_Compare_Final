@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DTU Grocery Compare</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">Blinkit vs Swiggy Instamart</p>
+      <h1>DTU Grocery Compare</h1>
+      <p class="location">📍 Delhi Technological University</p>
+    </header>
+    <form id="search-form">
+      <label class="sr-only" for="query">Grocery or food item</label>
+      <input id="query" name="query" minlength="2" maxlength="80" value="Maggi" placeholder="Search Maggi, milk, butter…" required>
+      <div class="quantity" aria-label="Quantity">
+        <button type="button" id="decrease" aria-label="Decrease quantity">−</button><output id="quantity">1</output><button type="button" id="increase" aria-label="Increase quantity">+</button>
+      </div>
+      <button class="primary" type="submit">Compare</button>
+      <button id="refresh" type="button" hidden>Refresh prices</button>
+    </form>
+    <p id="message" role="status">Search visible item-level prices at the fixed DTU location.</p>
+    <section id="provider-status" aria-label="Provider status"></section>
+    <section id="results" aria-live="polite"></section>
+    <section id="other-results"></section>
+    <footer>Prices are snapshots of visible item-level listings. Checkout fees, coupons, memberships, payment offers and hidden cart promotions are not included. Final availability is confirmed by the provider.</footer>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

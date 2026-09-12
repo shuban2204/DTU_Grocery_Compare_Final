@@ -1,0 +1,58 @@
+{
+  "query": "Coca Cola",
+  "location": "Delhi Technological University",
+  "captured_at": "2026-09-12T03:30:00+05:30",
+  "source": "manual_snapshot",
+  "products": [
+    {
+      "title": "Coca-Cola PET - Cola Sparkling Soft Drink",
+      "size": "750 ml",
+      "price": 38,
+      "mrp": 40,
+      "offer_text": "2 for ₹65; 12 for ₹387",
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Coca-Cola PET - Cola Sparkling Soft Drink",
+      "size": "2 ltr",
+      "price": 91,
+      "mrp": 99,
+      "offer_text": "4 for ₹356",
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Coca-Cola PET - Cola Sparkling Soft Drink",
+      "size": "250 ml",
+      "price": 20,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Coca-Cola Can - Cola Sparkling Soft Drink",
+      "size": "300 ml",
+      "price": 48,
+      "mrp": 50,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Coca-Cola Zero Sugar PET - Cola Sparkling Soft Drink",
+      "size": "750 ml",
+      "price": 38,
+      "mrp": 40,
+      "offer_text": "2 for ₹65; 3 for ₹97; 4 for ₹130",
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    }
+  ]
+}

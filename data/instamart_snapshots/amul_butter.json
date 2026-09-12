@@ -1,0 +1,48 @@
+{
+  "query": "Amul Butter",
+  "location": "Delhi Technological University",
+  "captured_at": "2026-09-12T03:20:00+05:30",
+  "source": "manual_snapshot",
+  "products": [
+    {
+      "title": "Amul Pasteurised Butter",
+      "size": "100 g",
+      "price": 63,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Pasteurised Butter",
+      "size": "200 g",
+      "price": 130,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Butter Unsalted Box",
+      "size": "500 g",
+      "price": 320,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Amul Delicious Margarine",
+      "size": "100 g",
+      "price": 25,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    }
+  ]
+}

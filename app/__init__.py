@@ -1,0 +1,1 @@
+"""DTU Grocery Compare application."""

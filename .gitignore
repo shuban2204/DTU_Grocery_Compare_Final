@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+debug/
+.env
+.DS_Store
+build/
+dist/
+*.egg-info/
+DTU_Grocery_Compare_V1.zip
+

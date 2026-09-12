@@ -1,0 +1,118 @@
+{
+  "query": "Lays",
+  "location": "Delhi Technological University",
+  "captured_at": "2026-09-12T03:35:00+05:30",
+  "source": "manual_snapshot",
+  "products": [
+    {
+      "title": "Lay's (India's Magic Masala) Crunchy Potato Chips",
+      "size": "58 g",
+      "price": 25,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (American Style Cream & Onion Flavour) Potato Chips",
+      "size": "58 g",
+      "price": 25,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (West Indies Hot 'n' Sweet Chilli) Potato Chips",
+      "size": "58 g",
+      "price": 25,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (Spanish Tomato Tango Flavour) Potato Chips",
+      "size": "58 g",
+      "price": 25,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (Spanish Tomato Tango Flavour) Potato Chips",
+      "size": "75 g",
+      "price": 35,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "unavailable",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (Classic Salted) Crunchy Potato Chips",
+      "size": "58 g",
+      "price": 20,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (Chile Limon Flavour) Crunchy Potato Chips",
+      "size": "58 g",
+      "price": 25,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (Sizzling Hot) Spicy Potato Chips",
+      "size": "40 g",
+      "price": 20,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (West Indies Hot 'n' Sweet Chilli) Potato Chips",
+      "size": "80 g",
+      "price": 38,
+      "mrp": 48,
+      "offer_text": "2 for ₹71; 3 for ₹71",
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (India's Magic Masala) Crunchy Potato Chips",
+      "size": "80 g",
+      "price": 38,
+      "mrp": 48,
+      "offer_text": "2 for ₹71; 3 for ₹71",
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "Lay's (American Style Cream & Onion Flavour) Potato Chips",
+      "size": "80 g",
+      "price": 38,
+      "mrp": 48,
+      "offer_text": "2 for ₹71; 3 for ₹71",
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    }
+  ]
+}

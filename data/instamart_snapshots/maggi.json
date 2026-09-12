@@ -1,0 +1,48 @@
+{
+  "query": "Maggi",
+  "location": "Delhi Technological University",
+  "captured_at": "2026-09-12T03:20:00+05:30",
+  "source": "manual_snapshot",
+  "products": [
+    {
+      "title": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
+      "size": "280 g",
+      "price": 60,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
+      "size": "420 g",
+      "price": 80,
+      "mrp": 90,
+      "offer_text": "2 for ₹158",
+      "product_url": null,
+      "availability": "available",
+      "sponsored": true
+    },
+    {
+      "title": "MAGGI 2-Minute Instant Noodles, Made With Quality Spices",
+      "size": "70 g",
+      "price": 15,
+      "mrp": null,
+      "offer_text": null,
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    },
+    {
+      "title": "MAGGI Double Masala Noodles",
+      "size": "95 g",
+      "price": 20,
+      "mrp": null,
+      "offer_text": "3 for ₹58; 4 for ₹75",
+      "product_url": null,
+      "availability": "available",
+      "sponsored": false
+    }
+  ]
+}
